@@ -42,33 +42,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
-global.snh = 'wa.me/6283174508962'
+global.sig = 'https://instagram.com/saya_asroriamin'
+global.sgh = 'https://github.com/AminGanteng'
+global.sgc = 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed'
+global.sdc = 'https://asroriamin.my.id'
+global.snh = 'wa.me/6288227248988'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '088227248988'
+global.povo = '088227248988'
+global.pgopay = '088227248988'
+global.ppulsa = '088227248988'
+global.ppulsa2 = 'gak ono'
+global.psaweria = 'https://telegra.ph/file/4e96415f487c4bd8cdd0c.jpg'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee'
-global.nameown = 'ZukashikaⒸ︎'
+global.nomorbot = '6281277577432'
+global.nomorown = '6288227248988'
+global.namebot = 'Amin Bot'
+global.nameown = 'Asrori Amin'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee', true]
+  ['6288227248988'],
+  ['6288227248988'],
+  ['6288227248988'],
+  ['6288227248988', 'Asrori Amin', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,20 +113,20 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee' //Main Watermark
-global.wm2 = 'Halo kak Selamat datang di BotzzMee👋'
-global.wm3 = '☘︎ BotzzMee'
+global.wm = 'Asrori Amin' //Main Watermark
+global.wm2 = 'Halo kak Selamat datang👋'
+global.wm3 = 'Asrori Amin'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'ZukaShikaⒸ︎' 
+global.author = 'Asrori Amin' 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6048ec3e029520424c234.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.giflogo = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
-global.thumbs = ['https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
+global.thumb = 'https://telegra.ph/file/bfcd57d802efbc3ca7233.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/bfcd57d802efbc3ca7233.jpg'
+global.giflogo = 'https://telegra.ph/file/bfcd57d802efbc3ca7233.jpg'
+global.thumbs = ['https://telegra.ph/file/bfcd57d802efbc3ca7233.jpg', 'https://telegra.ph/file/bfcd57d802efbc3ca7233.jpg', 'https://telegra.ph/file/bfcd57d802efbc3ca7233.jpg','https://telegra.ph/file/bfcd57d802efbc3ca7233.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
@@ -151,7 +151,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6048ec3e029520424c234.jpg'
+global.thumbdoc = 'https://telegra.ph/file/bfcd57d802efbc3ca7233.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -179,8 +179,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Cie mau nyolong ya'
-global.stickauth = `By BotzzMeeⒸ︎`
+global.stickpack = 'Asrori Amin'
+global.stickauth = ``
 
 global.multiplier = 38 // The higher, The harder levelup
 

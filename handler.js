@@ -1044,7 +1044,7 @@ sourceUrl: sgc
  } 
 })
     let msgg = {
-    	unreg: '❗VERIFY TERLEBIH DAHULU SEBELUM MENGGUNAKAN FITUR BOT\n\n📮➞ CLICK THE BUTTON BELOW' 
+    	unreg: '❗VERIFY TERLEBIH DAHULU SEBELUM MENGGUNAKAN FITUR BOT\n\nCLICK THE BUTTON BELOW' 
 }[type]
 if (msgg) return conn.sendButton(m.chat, `${global.htki} VERIFY ${global.htka}`, msgg, null, ['VERIFY', '/verify'],m)
 }
