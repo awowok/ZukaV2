@@ -514,8 +514,8 @@ const listMessage = {
                 },
                 {
                     urlButton: {
-                        displayText: 'TELEGRAM',
-                        url: stg
+                        displayText: 'WEBSITE',
+                        url: sdc
                     }
                 },
                 {
